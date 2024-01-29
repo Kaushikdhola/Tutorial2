@@ -1,27 +1,44 @@
-# Tutorial2
+# Tutorial 2: Code Management and Deployment
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.1.
+## Overview
+This README provides information about code management and deployment for Tutorial 2. Please follow the instructions below for both group and individual submissions.
 
-## Development server
+### General Information
+1. **Date Created:** 25 Jan 2024
+2. **Last Modification Date:** 26 Jan 2024
+3. **Brightspace Link:** [Tutorial 2 on Brightspace](https://dal.brightspace.com/d2l/le/content/311813/viewContent/4041497/View)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+---
 
-## Code scaffolding
+## Group Submission
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Group Project Repository
+- **Repository URL:** [Group 3 Project Repository](https://git.cs.dal.ca/unaeem/csci-5709-grp-03)
 
-## Build
+### Branch URL (Individual)
+- **Branch URL (Kaushik Chanabhai Dhola):** [Kaushik Chanabhai Dhola](https://git.cs.dal.ca/unaeem/csci-5709-grp-03/-/tree/KaushikChanabhai-dhola?ref_type=heads)
+- **Branch URL (Shahroz Ahmad):** [Shahroz Ahmad](https://git.cs.dal.ca/unaeem/csci-5709-grp-03/-/tree/shahroz-ahmad?ref_type=heads)
+- **Branch URL (Ubaidullah Muhammad Naeem):** [Ubaidullah Muhammad Naeem](https://git.cs.dal.ca/unaeem/csci-5709-grp-03/-/tree/unaeem?ref_type=heads) 
+- **Branch URL (Snehit Roda):** [Snehit Roda](https://git.cs.dal.ca/unaeem/csci-5709-grp-03/-/tree/dev-snehit-roda?ref_type=heads)
+- **Branch URL (Parth Gajera):** [Parth Gajera](https://git.cs.dal.ca/unaeem/csci-5709-grp-03/-/tree/parth-gajera?ref_type=heads)
+- **Branch URL (Abhisha Thaker):** [Abhisha Thaker](#)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+---
 
-## Running unit tests
+## Individual Submission
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### Git Information
+- **Git URL:** [Tutorial 2 on Gitlab](https://git.cs.dal.ca/kdhola/csci-5709-tutorials/-/tree/main/Tutorial2?ref_type=heads) 
 
-## Running end-to-end tests
+### Deployment
+- **Deployed URL:** [Tutorial 2 Deployed Application](https://main--imaginative-moxie-ab8522.netlify.app/)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+### Additional Repositories
+- **Assignments Repository URL:** [Assignments Repository on Gitlab](https://git.cs.dal.ca/kdhola/csci-5709-assignments)  
+- **Tutorials Repository URL:** [Tutorials Repository on Gitlab](https://git.cs.dal.ca/kdhola/csci-5709-tutorials)
 
-## Further help
+---
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Author
+- [Kaushik Chanabhai Dhola](mailto:ks328392@dal.ca) 
+   - [Kaushik Chanabhai Dhola - GitLab Profile](https://git.cs.dal.ca/kdhola)
